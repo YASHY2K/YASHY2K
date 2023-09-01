@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything related to computer engineering
 - 📫 How to reach me:
   Instagram:YASHY2K
+  LinkedIn: https://www.linkedin.com/in/yash-panchal-4239471a4/
 
 <!---
 YASHY2K/YASHY2K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
