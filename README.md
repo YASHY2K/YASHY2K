@@ -2,8 +2,8 @@
 - 👀 I’m interested in ML/Data science
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on anything related to computer engineering
-- 📫 How to reach me:
-  Instagram:YASHY2K
+- 📫 Reach me at:
+  Instagram: YASHY2K
   LinkedIn: https://www.linkedin.com/in/yash-panchal-4239471a4/
 
 <!---
