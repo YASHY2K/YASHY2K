@@ -1,5 +1,15 @@
 # 💫 About Me:
-<br><br>🔭 **I’m currently working on** enhancing the reliability and efficiency of distributed systems as an Open Source Contributor for Project Ray, focusing on resolving issues with worker pods and improving URL parsing logic.<br><br>👯 **I’m looking to collaborate on** projects involving advanced NLP techniques, decentralized workflow orchestration, or scalable microservices architecture. My experience with technologies like spaCy, gRPC, and Docker could be valuable in these areas.<br><br>🤝 **I’m looking for help with** optimizing GAN and CNN models for image processing tasks. If you have expertise in CUDA-enabled GPU acceleration or similar technologies, I'd love to connect and learn from your experience.<br><br>🌱 **I’m currently learning** about the latest advancements in AI tools like ChatGPT and Google Gemini, as well as deepening my knowledge in distributed systems and neural networks.<br><br>💬 **Ask me about** my experience developing a robust web scraping solution with AWS Lambda, or how I improved data extraction efficiency by 50% during my internship at Dana Endeavour LLP.<br><br>⚡ **Fun fact**: I once enhanced driver safety by improving lane detection in adverse weather conditions using a GAN-CNN model, achieving a 33% improvement in image clarity!
+🔭 **I'm currently working on** enhancing distributed systems reliability as an Open Source Contributor for Project Ray, where I've fixed worker pod deployment issues and improved URL parsing logic for S3.
+
+👯 **I'm looking to collaborate on** projects involving cloud infrastructure, microservices architecture, or AI-powered applications. My experience with technologies like Redis, AWS, and containerization could bring value to these areas.
+
+🤝 **I'm looking for help with** advanced object detection models and distributed computing optimizations. I'm interested in connecting with experts in these domains to expand my knowledge.
+
+🌱 **I'm currently learning** about infrastructure as code, serverless architectures, and enhancing my skills with AI tools like ChatGPT and GitHub Co-pilot.
+
+💬 **Ask me about** my experience developing PillPal, an AI-powered medication analysis system using AWS Rekognition, or how I engineered a scalable microservices architecture that processes 50,000 images per hour with Objectsense.
+
+⚡ **Fun fact**: I reduced end-to-end workflow completion time by 33% with an adaptive task scheduling algorithm in my Decentralized Workflow Orchestrator project!
 
 
 ## 🌐 Socials:
